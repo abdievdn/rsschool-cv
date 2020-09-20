@@ -1,0 +1,21 @@
+.container {
+    display: flex;
+    justify-content: center;
+    margin-top: 10%;
+}
+.box {
+    position: relative;
+    width: 250px;
+    height: 400px;
+    float: left;
+    padding: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    border: 1px solid rgb(78, 78, 78);
+}
+.dark {
+    background-color:  rgb(78, 78, 78);
+    color: blanchedalmond;
+}
+.centered {
+    text-align: center;
+}
